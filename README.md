@@ -3,6 +3,15 @@
 An NLP-powered semantic search engine that retrieves relevant Machine Learning research papers based on **meaning** instead of exact keyword matching. It uses **Sentence Transformers** to generate text embeddings and **FAISS** for fast vector similarity search.
 
 ---
+## 📖 Overview
+
+Finding relevant research papers can be difficult when traditional search engines rely only on keyword matching.
+
+This project solves that problem by implementing **Semantic Search**, allowing users to search using natural language queries.
+
+The application understands the semantic meaning of a query and returns the most relevant research papers.
+
+---
 
 ##  Features
 
