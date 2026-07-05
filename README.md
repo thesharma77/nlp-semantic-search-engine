@@ -1,4 +1,4 @@
- NLP Semantic Search Engine
+ AI Research Paper Intelligence System
 
 An NLP-powered semantic search engine that retrieves relevant Machine Learning research papers based on **meaning** instead of exact keyword matching. It uses **Sentence Transformers** to generate text embeddings and **FAISS** for fast vector similarity search.
 
